@@ -89,6 +89,8 @@ jupyter notebook cashflow-prediction-with-lstm.ipynb
 
 The notebook demonstrates how deep learning can effectively model time series patterns in financial data. Predicted cashflow curves align closely with actual data, showing that LSTMs can learn underlying trends with appropriate scaling and tuning.
 
+<img width="1121" height="583" alt="image" src="https://github.com/user-attachments/assets/e2aa5bbd-50cf-48d7-9265-f59e549e9ccb" />
+
 ---
 
 ## 🧑‍💻 Author
